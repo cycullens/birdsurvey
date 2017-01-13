@@ -6,7 +6,7 @@ Run analysis
 
 Save Table
 
-Save small figures
+Save small figures, line red
 
 do a bit more
 this is the sixth line of text
