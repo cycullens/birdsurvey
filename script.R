@@ -6,4 +6,4 @@ Run analysis
 
 Save Table with bold header
 
-Save small figures
+Save small figures with thick line
