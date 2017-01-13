@@ -6,4 +6,4 @@ Run analysis
 
 Save Table
 
-Smve small figure
+Save small figures
